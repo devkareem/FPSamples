@@ -1,0 +1,12 @@
+D:\Worksapace\FPSamples\C#\FPConcept\bin\Debug\net5.0\FPConcept.deps.json
+D:\Worksapace\FPSamples\C#\FPConcept\bin\Debug\net5.0\FPConcept.dll
+D:\Worksapace\FPSamples\C#\FPConcept\bin\Debug\net5.0\ref\FPConcept.dll
+D:\Worksapace\FPSamples\C#\FPConcept\bin\Debug\net5.0\FPConcept.pdb
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\net5.0\FPConcept.csprojAssemblyReference.cache
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\net5.0\FPConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\net5.0\FPConcept.AssemblyInfoInputs.cache
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\net5.0\FPConcept.AssemblyInfo.cs
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\net5.0\FPConcept.csproj.CoreCompileInputs.cache
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\net5.0\FPConcept.dll
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\net5.0\ref\FPConcept.dll
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\net5.0\FPConcept.pdb

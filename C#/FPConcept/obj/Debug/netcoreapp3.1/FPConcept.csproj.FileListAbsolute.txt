@@ -1,0 +1,8 @@
+D:\Worksapace\FPSamples\C#\FPConcept\bin\Debug\netcoreapp3.1\FPConcept.deps.json
+D:\Worksapace\FPSamples\C#\FPConcept\bin\Debug\netcoreapp3.1\FPConcept.dll
+D:\Worksapace\FPSamples\C#\FPConcept\bin\Debug\netcoreapp3.1\FPConcept.pdb
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\netcoreapp3.1\FPConcept.AssemblyInfoInputs.cache
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\netcoreapp3.1\FPConcept.AssemblyInfo.cs
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\netcoreapp3.1\FPConcept.csproj.CoreCompileInputs.cache
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\netcoreapp3.1\FPConcept.dll
+D:\Worksapace\FPSamples\C#\FPConcept\obj\Debug\netcoreapp3.1\FPConcept.pdb

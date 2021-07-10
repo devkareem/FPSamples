@@ -1,0 +1,10 @@
+D:\Worksapace\FPSamples\C#\FPExamples\bin\Debug\netcoreapp3.1\FPExamples.exe
+D:\Worksapace\FPSamples\C#\FPExamples\bin\Debug\netcoreapp3.1\FPConcept.dll
+D:\Worksapace\FPSamples\C#\FPExamples\bin\Debug\netcoreapp3.1\FPConcept.pdb
+D:\Worksapace\FPSamples\C#\FPExamples\obj\Debug\netcoreapp3.1\FPExamples.csprojAssemblyReference.cache
+D:\Worksapace\FPSamples\C#\FPExamples\obj\Debug\netcoreapp3.1\FPExamples.AssemblyInfoInputs.cache
+D:\Worksapace\FPSamples\C#\FPExamples\obj\Debug\netcoreapp3.1\FPExamples.AssemblyInfo.cs
+D:\Worksapace\FPSamples\C#\FPExamples\obj\Debug\netcoreapp3.1\FPExamples.csproj.CoreCompileInputs.cache
+D:\Worksapace\FPSamples\C#\FPExamples\obj\Debug\netcoreapp3.1\FPExamples.csproj.CopyComplete
+D:\Worksapace\FPSamples\C#\FPExamples\obj\Debug\netcoreapp3.1\FPExamples.dll
+D:\Worksapace\FPSamples\C#\FPExamples\obj\Debug\netcoreapp3.1\FPExamples.pdb

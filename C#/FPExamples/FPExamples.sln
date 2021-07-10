@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FPExamples", "FPExamples.csproj", "{8041BC8C-1346-4717-A63C-28556A370E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPConcept", "..\FPConcept\FPConcept.csproj", "{5953952B-F35F-42EC-9511-54A6C88F774E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8041BC8C-1346-4717-A63C-28556A370E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8041BC8C-1346-4717-A63C-28556A370E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8041BC8C-1346-4717-A63C-28556A370E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8041BC8C-1346-4717-A63C-28556A370E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5953952B-F35F-42EC-9511-54A6C88F774E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5953952B-F35F-42EC-9511-54A6C88F774E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5953952B-F35F-42EC-9511-54A6C88F774E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5953952B-F35F-42EC-9511-54A6C88F774E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC0DC4E6-E52D-4480-AF54-8E21CF9A2880}
+	EndGlobalSection
+EndGlobal

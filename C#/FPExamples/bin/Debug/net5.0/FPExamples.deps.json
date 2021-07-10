@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FPExamples/1.0.0": {
+        "dependencies": {
+          "FPConcept": "1.0.0"
+        },
+        "runtime": {
+          "FPExamples.dll": {}
+        }
+      },
+      "FPConcept/1.0.0": {
+        "runtime": {
+          "FPConcept.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FPExamples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FPConcept/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
